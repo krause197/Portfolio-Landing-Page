@@ -1,8 +1,17 @@
-.titlesection {
-  color: blue;
-  image-orientation: center;
+.jumbotron {
   text-align: center;
-  color: green;
+  position: relative;
+  background-image: url(http://www.planwallpaper.com/static/images/6806129-pretty-backgrounds.jpg);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.emph {
+  color: red;
+  font-style: italic;
+  font-family: cursive;
 }
 
 .column {
@@ -13,23 +22,27 @@
 
 .h2 {
   text-align: center;
+  margin: 6px;
+  border: 12px;
+  padding: 4px;
+  background-color: orange
 }
 
-p.education {
+.education {
   margin: 6px;
   border: 12px darkblue;
   padding: 4px;
   background-color: lightblue;
 }
 
-p.job {
+.job {
   margin: 6px;
   border: 12px darkgreen;
   padding: 4px;
   background-color: lightgreen;
 }
 
-p.interests {
+.interests {
   margin: 6px;
   border: 12px darkred;
   padding: 4px;
