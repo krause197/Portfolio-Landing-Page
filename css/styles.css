@@ -15,6 +15,23 @@
   text-align: center;
 }
 
-.Projects {
-  text-align: center;
+p.education {
+  margin: 6px;
+  border: 12px darkblue;
+  padding: 4px;
+  background-color: lightblue;
+}
+
+p.job {
+  margin: 6px;
+  border: 12px darkgreen;
+  padding: 4px;
+  background-color: lightgreen;
+}
+
+p.interests {
+  margin: 6px;
+  border: 12px darkred;
+  padding: 4px;
+  background-color: pink;
 }
