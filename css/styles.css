@@ -1,0 +1,11 @@
+.titlesection {
+  color: blue;
+  image-orientation: center;
+  text-align: center;
+  color: green;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
