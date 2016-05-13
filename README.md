@@ -28,6 +28,8 @@ Contact the creator of this webpage at krause197@gmail.com if you have questions
 * CSS
 * Bootstrap.css
 
+## GitHub Page page link: https://krause197.github.io/Portfolio-Landing-Page/
+
 ### License
 
 The software used is licensed under the MIT license.
