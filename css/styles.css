@@ -8,4 +8,13 @@
 .column {
   width: 300px;
   float: left;
+  text-align: center;
+}
+
+.h2 {
+  text-align: center;
+}
+
+.Projects {
+  text-align: center;
 }
